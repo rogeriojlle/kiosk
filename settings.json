@@ -1,0 +1,12 @@
+{
+  "private": {
+    "packages": {
+      "kiosk": {
+        "storage": ""
+      },
+      "desktop-gtk": {
+        "application_id": "kiosk"
+      }
+    }
+  }
+}
